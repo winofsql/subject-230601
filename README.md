@@ -3,10 +3,10 @@
 
 - ## Google ドライブのインストール
   - ### google drive file stream で検索
-	- ### 組織にパソコン版ドライブを設定する
-	-	### Windows をクリック
-	- ### 今すぐダウンロード
-	- ### GoogleDriveSetup.exe
+  - ### 組織にパソコン版ドライブを設定する
+  - ### Windows をクリック
+  - 今すぐダウンロード
+  - GoogleDriveSetup.exe
 	
 - ## WinOfSql のインストール
   - ### _windows-software\WINOFSQL-settings.vbs
