@@ -16,9 +16,18 @@
 - ## MySQL の ODBC ドライバをインストール
   - ### _windows-software\INSTALL-mysql-odbc-driver.vbs
 
+- ## XAMPP で MySQL を起動
+  - ###	MySQL はサービス登録がおすすめ
+  - ### 但し、システムから手動起動にしておく
+
 - ## lightbox2 データーベース作成
+  - ###	mysql データーベースに接続
+  - ###	create database lightbox2
+  - ###	MySQL2 lightbox2 で DSN 作成
+  - ###	WinOfSql で MySQL2 lightbox2 root  で接続
 
 - ## 社員マスタ作成
+  - ###	MDB から テーブルを MySQL2 にエクスポート
 	
 - ## C# からデータベースにアクセス
 
